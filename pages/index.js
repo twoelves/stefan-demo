@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Velkomin á þessa síðu!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Byrjum á að breyta <code>pages/index.js</code>
         </p>
       </main>
 
